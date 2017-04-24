@@ -1,5 +1,7 @@
 # markdown parser
 
+This repository is a tool for converting from markdown to document.
+
 ## 1. install pandoc  
 [http://pandoc.org/getting-started.html](http://pandoc.org/getting-started.html)
 
